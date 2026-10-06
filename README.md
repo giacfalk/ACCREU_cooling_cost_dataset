@@ -5,7 +5,7 @@ This public folder contains country-level projections of the **cost of residenti
 **Produced within:** ACCREU (Assessing Climate Change Risk in EUrope), Horizon Europe
 **Version:** 1.0 (model outputs of 10 April 2026)
 
-**Public Accelerator folder:** [View ACCREU dataset files](links_DT2.html) (direct download links are also given in the file tables below)
+**Data access:** files are hosted on the [IIASA Accelerator](https://accelerator.iiasa.ac.at/); direct download links are in the [file tables below](#1-files).
 
 ## Summary
 
@@ -39,7 +39,7 @@ Countries or regions not in the files, or reported with zero energy and no penet
 
 ## Repository Contents (Metadata only)
 
-This GitHub repository hosts **only** the metadata (this README and the data access page `links_DT2.html`). The data files reside on the IIASA Accelerator platform (see link above).
+This GitHub repository hosts **only** the metadata (this README). The data files reside on the IIASA Accelerator platform (see link above).
 
 ## Folder Structure (on Accelerator)
 
