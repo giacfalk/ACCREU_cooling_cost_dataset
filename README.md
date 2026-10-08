@@ -39,7 +39,7 @@ Countries or regions not in the files, or reported with zero energy and no penet
 
 ## Repository Contents (Metadata only)
 
-This GitHub repository hosts **only** the metadata (this README). The data files reside on the IIASA Accelerator platform (see link above).
+This GitHub repository hosts **only** the metadata (this README). The data files reside on the IIASA Accelerator platform [here](https://giacfalk.github.io/ACCREU_cooling_cost_dataset/links_DT2.html).
 
 ## Folder Structure (on Accelerator)
 
