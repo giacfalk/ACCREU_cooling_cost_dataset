@@ -28,7 +28,7 @@ Countries or regions not in the files, or reported with zero energy and no penet
 
 ## Citation
 
-> Falchetta, Giacomo. (2026). *Cost of residential space cooling by country under climate and adaptation scenarios* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Falchetta, Giacomo. (2026). *Cost of residential space cooling by country under climate and adaptation scenarios* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23233429
 
 **Methodology reference:**
 > Falchetta, G., De Cian, E., Pavanello, F., & Wing, I. S. (2024). Inequalities in global residential cooling energy use to 2050. *Nature Communications*, 15. https://doi.org/10.1038/s41467-024-52028-8
@@ -63,7 +63,7 @@ CMCC_energy/
 
 ## 1. Files
 
-File names link to the direct download on the IIASA Accelerator.
+File names link to the direct download on the IIASA Accelerator [here](https://giacfalk.github.io/ACCREU_cooling_cost_dataset/links_DT2.html).
 
 ### Cooling cost files
 
